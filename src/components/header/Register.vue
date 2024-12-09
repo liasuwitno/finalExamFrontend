@@ -1,0 +1,20 @@
+<template>
+    <div class="d-flex align-items-center">
+        <h6 class="mx-3" style="color: white; font-size: large;">Login</h6>
+        <button class="btn"><h6 class="mx-3">Register</h6></button>
+    </div>
+</template>
+
+<style scoped>
+.btn {
+    color: white;
+    background-color: orange;
+    border-radius: 100px;
+    padding-top: 9px;
+}
+.btn:hover {
+    color: black;
+    background-color: white;
+}
+
+</style>
